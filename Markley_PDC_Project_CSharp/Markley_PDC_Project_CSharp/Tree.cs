@@ -8,11 +8,11 @@ namespace Markley_PDC_Project_CSharp
 {
     public class Tree
     {
-        public Node root;
+        public TreeNode root;
 
         public Tree(int[] cities, int amount, int partialCost)
         {
-            this.root = new Node(cities, amount, partialCost);
+            this.root = new TreeNode(cities, amount, partialCost);
         }
     }
 }
