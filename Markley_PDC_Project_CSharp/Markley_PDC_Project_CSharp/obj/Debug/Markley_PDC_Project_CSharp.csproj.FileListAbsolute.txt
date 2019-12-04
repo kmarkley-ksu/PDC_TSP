@@ -1,0 +1,9 @@
+C:\Users\Kevin\documents\visual studio 2015\Projects\Markley_PDC_Project\Markley_PDC_Project\obj\Debug\Markley_PDC_Project_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\documents\visual studio 2015\Projects\Markley_PDC_Project\Markley_PDC_Project\obj\Debug\Markley_PDC_Project.exe
+C:\Users\Kevin\documents\visual studio 2015\Projects\Markley_PDC_Project\Markley_PDC_Project\obj\Debug\Markley_PDC_Project.pdb
+C:\Users\Kevin\documents\visual studio 2015\Projects\Markley_PDC_Project\Markley_PDC_Project\bin\Debug\Markley_PDC_Project.exe.config
+C:\Users\Kevin\documents\visual studio 2015\Projects\Markley_PDC_Project\Markley_PDC_Project\bin\Debug\Markley_PDC_Project.exe
+C:\Users\Kevin\documents\visual studio 2015\Projects\Markley_PDC_Project\Markley_PDC_Project\bin\Debug\Markley_PDC_Project.pdb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Markley_PDC_Project_CSharp\Markley_PDC_Project_CSharp\bin\Debug\Markley_PDC_Project.exe.config
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Markley_PDC_Project_CSharp\Markley_PDC_Project_CSharp\obj\Debug\Markley_PDC_Project.exe
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Markley_PDC_Project_CSharp\Markley_PDC_Project_CSharp\obj\Debug\Markley_PDC_Project.pdb
