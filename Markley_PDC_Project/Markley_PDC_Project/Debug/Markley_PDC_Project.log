@@ -1,0 +1,12 @@
+﻿Build started 12/4/2019 12:18:18 AM.
+     1>Project "c:\Users\Kevin\documents\visual studio 2012\Projects\Markley_PDC_Project\Markley_PDC_Project\Markley_PDC_Project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Markley_PDC_Project.cpp
+         Markley_PDC_Project.cpp
+     1>c:\users\kevin\documents\visual studio 2012\projects\markley_pdc_project\markley_pdc_project\markley_pdc_project.cpp(26): error C2374: 'cities' : redefinition; multiple initialization
+                 c:\users\kevin\documents\visual studio 2012\projects\markley_pdc_project\markley_pdc_project\markley_pdc_project.cpp(16) : see declaration of 'cities'
+     1>Done Building Project "c:\Users\Kevin\documents\visual studio 2012\Projects\Markley_PDC_Project\Markley_PDC_Project\Markley_PDC_Project.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.50
